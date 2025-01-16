@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 # Generic Ship Actions
 ## Boost
 You can attempt to boost a function of your ship. Each function can only be boosted once on each of the ship’s turns, and each time you try to boost a function of the ship after the first, the DC increases by 5, cumulatively, until the start of your next turn.
