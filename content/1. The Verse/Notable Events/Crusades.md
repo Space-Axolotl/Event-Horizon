@@ -1,0 +1,6 @@
+# First Crusade
+
+# Third Crusade
+
+# The Night Crusade
+The most recent of these battles, called the Night Crusade, nearly saw the wholesale destruction of the [[Elves|Elven]] Empire. The holy [[Avia-Ra]] fleet, known as the Congregation, captured the center of the galaxy in a series of decisive victories and pushed the elves back to their home system. In this moment, the balance of the galaxy was threatened, and the elves struck a bargain: in exchange for their assistance, the elves would liberate the [[Vect]] across their empire—a move which would eventually pave the way for Vect freedom across the ‘verse. The culmination of this deal was at the Battle of Alden’val, where the Vect fleet turned the tide for the elves, critically wounding the Avia-Ra’s flagship, The Prophet. The ensuing retreat made an opening for the Elven Forest-Fleet, which encircled the Congregation, spelling the end of the Crusade. The war ended with the signing of the [[Treaty Black]], a document that quieted hostilities and established the [[Order of the Sepulcher]] to safeguard against similar crises in the future
