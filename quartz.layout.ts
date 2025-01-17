@@ -51,7 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
     scale: 0.9,
     repelForce: 0.22,
     centerForce: 0.5,
-    linkDistance: 46,
+    linkDistance: 55,
     fontSize: 0.6,
     opacityScale: 1,
     removeTags: [], // what tags to remove from the graph
