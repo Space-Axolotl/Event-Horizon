@@ -1,19 +1,18 @@
 ---
-title: Home
+title: Welcome to The Verse
 draft: "false"
 tags:
   - location
   - species
   - star_system
 ---
-D&D Campaign run in the city of nexus discord server.
+_D&D Campaign run in the city of nexus discord server._
 
-# Welcome to The Verse
-To a terrestrial adventurer, the scale of the galaxy can be mind-bending and a bit frightening. It betrays much of what their senses tell them: the land on which they walk is down, the sky is up, the sun goes from east to west. The idea that “up” is in all directions, or that there is no constant “down,” or that your world is but a speck of the cosmic whole is antithetical to nearly everything they’ve ever learned. 
-
-However, for those adventurers who can muster the courage to brave the starry skies, to strike out into the unknown, and to take their first bold steps into the night, untold treasures are there to be had. 
-
-The galaxy is where interstellar travelers spend their time, charting their way through the Black, the empty space between worlds. Facilitating their journeys are [[Maws|the maws]], which (in conjunction with their starships) allow them to travel between stars and vast stretches of galaxy by jumping through the Void. From the markets on the maws to the inner workings of their own ships, they’ll come across an endless array of magical technology, from the simple blaster to the intricate [[Dark Matter Drive]]. Equipment in hand, it is on them to find purpose, meaning, and potentially profit in the galaxy; there is a nearly endless amount of adventuring and exploring to be done, a wide variety of races and factions to engage with or work for, and plenty of deadly hazards to avoid.
+>To a terrestrial adventurer, the scale of the galaxy can be mind-bending and a bit frightening. It betrays much of what their senses tell them: the land on which they walk is down, the sky is up, the sun goes from east to west. The idea that “up” is in all directions, or that there is no constant “down,” or that your world is but a speck of the cosmic whole is antithetical to nearly everything they’ve ever learned. 
+>
+>However, for those adventurers who can muster the courage to brave the starry skies, to strike out into the unknown, and to take their first bold steps into the night, untold treasures are there to be had. 
+>
+>The galaxy is where interstellar travelers spend their time, charting their way through the Black, the empty space between worlds. Facilitating their journeys are [[Maws|the maws]], which (in conjunction with their starships) allow them to travel between stars and vast stretches of galaxy by jumping through the Void. From the markets on the maws to the inner workings of their own ships, they’ll come across an endless array of magical technology, from the simple blaster to the intricate [[Dark Matter Drive]]. Equipment in hand, it is on them to find purpose, meaning, and potentially profit in the galaxy; there is a nearly endless amount of adventuring and exploring to be done, a wide variety of races and factions to engage with or work for, and plenty of deadly hazards to avoid.
 ## The Galaxy 
 The Milky Way galaxy, located along the upper edge of the Virgo Supercluster, is a spiral galaxy roughly one hundred thousand light years in diameter and nearly ten thousand light years thick. Collected within this massive, swirling disk of stars, planets, nebulae, and other celestial bodies are all of the sentient beings known to exist in the universe. While most scholars assume that life, and indeed sentient life, must exist within galaxies beyond the borders of the Milky Way, such places are beyond the reach of even the fastest ships. For all intents and purposes, the beings that inhabit this galaxy are alone in the universe. Regardless of this fact, few, if any, creatures in this corner of the universe (often colloquially shortened to “the ’verse”) feel or will claim to be alone, at least on a galactic scale. Scattered amongst the four galactic quadrants are millions of life-bearing planets of all shapes and sizes, housing quadrillions of sentient beings. Dispersed between and around these worlds are millions of space stations, satellites, outposts, and lairs tucked into the recesses of every sizable asteroid and comet available. While many habitable worlds are either home to peoples which have yet to discover space flight or are completely unaffiliated with galactic alliances, most discovered worlds belong to one of the galactic factions. These powerful federations, hegemonies, empires, and loose conglomerates span the ‘verse, extending to their natural limit at the Galactic Frontier. Facilitating these massive alliances is the [[Maws|maw network]], a web-like series of immense, interconnected space stations spread in concentric rings emanating from the galactic core, which serve dual purposes as both communication relays and jump-stations
 
