@@ -1,7 +1,10 @@
 ---
 title: Home
 draft: "false"
-tags: []
+tags:
+  - location
+  - species
+  - star_system
 ---
 D&D Campaign run in the city of nexus discord server.
 # Sessions
