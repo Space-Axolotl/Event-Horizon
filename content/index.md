@@ -6,7 +6,7 @@ tags:
   - species
   - star_system
 ---
-_D&D Campaign run in the city of nexus discord server._
+_D&D Campaign run in the city of nexus discord server by yours truly Axolotl from Space._
 
 >To a terrestrial adventurer, the scale of the galaxy can be mind-bending and a bit frightening. It betrays much of what their senses tell them: the land on which they walk is down, the sky is up, the sun goes from east to west. The idea that “up” is in all directions, or that there is no constant “down,” or that your world is but a speck of the cosmic whole is antithetical to nearly everything they’ve ever learned. 
 >
