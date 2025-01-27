@@ -10,7 +10,9 @@ As a captain, you can use the following actions:
 
 **_Deep Scan_:** If your ship is equipped with sensors, you can use your action to order a deep scan of a specific object of interest within range of the sensors. This allows you to make an Intelligence (Investigation) check to examine that object. 
 
-**_Fire at Will_:** You use your action to declare a barrage. One gunner of your choice can then use its reaction to make one attack with a ship weapon. Full Speed Ahead. You use your action to push the engines. The pilot can then use its reaction to move the ship half its movement within the cone of movemen
+**_Fire at Will_:** You use your action to declare a barrage. One gunner of your choice can then use its reaction to make one attack with a ship weapon. 
+
+**_Full Speed Ahead_:** You use your action to push the engines. The pilot can then use its reaction to move the ship half its movement within the cone of movement
 
 ## Dogfighter 
 You deploy in a lighter, more maneuverable vessel to disable enemy fighters and target the vital locations of hostile ships. You can use your action to launch your fighter-sized ship from the main ship or to dock with it while you are adjacent to it. You can only switch roles while your fighter is docked with the main ship. Once launched, you can move your fighter's entire speed on its turn and use your action to fire its weapons. Movement and weapon attacks follow the same rules as the ***Pilot’s Move action*** and the ***Gunner’s Open Fire action***, except that moving your fighter doesn't require an action. You can also take the ***Pilot’s Dogfighting action***. If your fighter drops to 0 hit points and is destroyed, you can use your reaction to eject from the craft in a life pod to survive the explosion.
@@ -23,13 +25,14 @@ As the engineer, you can direct power around the ship and position the ship's di
 
 As an engineer, you have the following actions available to you: 
 
-**_Directing Power_:** You can use your action to deactivate the shield and direct its power elsewhere: either to the impulse engines or into one of the ship’s weapons. If you invest the power in the ship’s engines, the ship’s movement speed increases by half until the beginning of your next turn. If you invest the power in one of the ship’s weapons, a gunner can make one additional attack using that weapon when they take the Open Fire action. Alternatively, you can draw power from the ship’s weapons and invest it in the ship's shields. When you do so, until the beginning of your next turn, the ship's shields “Always make sure you have a William or a Willy on your crew.” — Lightweight, nautilid sepulcher knight, gunner, and self-cover two of its consecutive sides, instead of only one, and it regains all of its shield points at the beginning of the initiative order, instead of only half. In exchange, each gunner makes one weapon attack fewer than normal when they take the Open Fire action. 
+**_Directing Power_:** You can use your action to deactivate the shield and direct its power elsewhere: either to the impulse engines or into one of the ship’s weapons. If you invest the power in the ship’s engines, the ship’s movement speed increases by half until the beginning of your next turn. If you invest the power in one of the ship’s weapons, a gunner can make one additional attack using that weapon when they take the Open Fire action. Alternatively, you can draw power from the ship’s weapons and invest it in the ship's shields. When you do so, until the beginning of your next turn, the ship's shields cover two of its consecutive sides, instead of only one, and it regains all of its shield points at the beginning of the initiative order, instead of only half. In exchange, each gunner makes one weapon attack fewer than normal when they take the Open Fire action.
 
 **_Overcharge_:** If you are a spellcaster, you can use your action to expend a spell slot with a level greater than or equal to the Dark Matter engine's class to overcharge the engine. The shield recharges completely, and until the beginning of your next turn, power is invested in the ship’s engines (increasing the ship’s movement speed by half) and every gun (allowing each gunner to make one additional attack using that weapon when they take the Open Fire action on their turn). Once you use this ability, you can’t use it again for 1 minute. 
 
 **_System Repair_:** You can use your action to repair a ship system or weapon that has 0 hit points and is deactivated. When you do so, make a DC 15 Intelligence (Technology) check. On a success, the system or weapon regains 1 mega hit point and reactivates at the beginning of your next turn. 
 
-**_Void Jump_:** You can begin the charging process for a void jump. Once a Dark Matter engine has begun to charge, it will jump in 1 minute. No intervention can stop or slow this process; once it is begun, nothing short of destroying the ship can interrupt the jump. The pilot is responsible for guiding the ship on the jump itself and rolls on the Blind Jump table when the jump begins
+**_Void Jump_:** You can begin the charging process for a void jump. Once a Dark Matter engine has begun to charge, it will jump in 1 minute. No intervention can stop or slow this process; once it is begun, nothing short of destroying the ship can interrupt the jump. The pilot is responsible for guiding the ship on the jump itself and rolls on the Blind Jump table when the jump begins. 
+WIP THIS HAS TO CHANGE TO BE CONCENTRATION SO PPL CAN DROP THE VOID JUMP ON ESCAPING SHIPS
 
 ## Gunner 
 Acquiring targets and calculating ranges, you fire the shipboard weapons on hostile targets. Many ship weapons don't have any facing rules, but those which do are normally mounted to the front or to one of the sides of the ship. If a weapon has the Facing property, it can only be fired in a 90-degree cone in the direction in which it was mounted. While you are in the Gunner role, you can only operate one of the ship’s weapons at a time. You can use a bonus action on your turn to switch between weapons. You add your proficiency bonus and Dexterity modifier to an attack roll you make with a ship’s weapon, but you don't add any ability modifier to the weapon’s damage rolls. Weapon entries in the Example Ships section include an example attack bonus, to be used only if the GM controls the ship as an NPC. 
@@ -59,7 +62,7 @@ As the ship’s pilot, you can use the following actions:
 ## Recon Officer
 Responsible for managing sensors, special equipment, and magical aid in battle, the Recon Officer is an important role in any ship engagement. 
 
-As a Science Officer, you can take the following actions in ship combat: 
+As a Recon Officer, you can take the following actions in ship combat: 
 
 **_Point Scan_:** As an action, you may make an Intelligence (Investigation) roll against the AC of a ship within your sensor range. On a success, you may learn one piece of data about the ship from the following list:
 
@@ -92,6 +95,6 @@ As a Comms Officer, you can take the following actions while at your station on 
 
 **_Efficient Directive_:** Whenever you take the Direct action and you do not already posses the efficient directive number (EDN), you roll a d20 and the number rolled becomes your EDN. If you are taking the direct action and already have the EDN you may choose spend your bonus action to re-roll it.
 
-when an ally makes an ability check or attack roll affected by your Direct action and you have an efficient directive number (EDN), you can replace the result of the d20 roll with the value of the EDN. After you use this feature, you loose your current EDN. 
+When an ally makes an ability check or attack roll affected by your Direct action and you have an efficient directive number (EDN), as a reaction you can replace the result of the d20 roll with the value of the EDN. After you use this feature, you loose your current EDN. 
 
 You can use this feature before or after making the roll, but before any effects of the roll are determined. You can only have one efficient directive roll at a time, and you lose any unused uplifting directive rolls when you complete a short or long rest.

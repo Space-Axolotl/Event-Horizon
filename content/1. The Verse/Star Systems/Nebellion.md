@@ -1,3 +1,0 @@
----
-tags: star_system
----

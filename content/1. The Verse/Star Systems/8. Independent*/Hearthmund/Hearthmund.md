@@ -1,0 +1,11 @@
+---
+tags:
+  - star_system
+---
+From above, Hearthmund glows like a patchwork quilt of golden fields, vibrant forests, and sparkling waterways. The halfling homeworld exudes an air of tranquil abundance, with rolling hills dotted by cozy villages, each centered around a community hearth that burns as warmly as the people themselves. Here, the pace of life is unhurried, and the focus is on shared meals, cheerful gatherings, and the small joys of everyday life.
+
+For millennia, Hearthmund existed in blissful isolation, its inhabitants content to cultivate their world’s natural bounty and perfect the arts of brewing, baking, and storytelling. This changed nearly three thousand years ago, when a dwarven starship in desperate need of repair crash-landed in one of Hearthmund’s meadows. The encounter forever altered the trajectory of halfling history. With the dwarves’ guidance—and their knack for tinkering—halflings were introduced to the wonders of technology and the vastness of the galaxy beyond their pastoral skies.
+
+Rather than being overwhelmed, the halflings seamlessly wove this newfound technology into their way of life. Hearthmund’s windmills and water wheels were soon joined by solar panels and quiet fusion generators, all cleverly integrated into the landscape to preserve its idyllic charm. Compact starports now sit at the edge of bustling towns, blending into the countryside with grassy roofs and warm, earthen facades. Airships and spacecraft, crafted with halfling ingenuity, carry traders, travelers, and tales of Hearthmund’s legendary hospitality out into the galaxy.
+
+Even in their embrace of technology, halflings have remained true to their roots. Their starships are as welcoming as their homes, complete with small kitchens, comfortable bunks, and spaces for song and dance. Hearthmund itself is a haven for both halflings and visitors seeking refuge from the hustle of the galaxy. Technology on Hearthmund isn’t a disruption—it’s a tool for enhancing comfort, connection, and the halfling way of life.

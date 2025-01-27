@@ -1,0 +1,6 @@
+---
+tags: star_system
+---
+Lakshay stands as a stark reminder of what happens when survival takes precedence over allegiance. Once a human outpost on the far side of the Dead Magic Zone, Lakshay was abandoned by the central government during the Warhorde invasion. Left to fend for themselves against an unstoppable orcish horde, the garrisoned army declared martial law and conscripted every able-bodied citizen in nearby systems into their ranks. Against all odds, they not only held their ground but reclaimed lost colonies, cementing their reputation as one of the galaxy’s fiercest military forces.
+
+When orders came to bow to the newly-formed Terran Hegemony—a government that had left them for dead—the Lakshayan armies severed ties entirely. Under the leadership of General Sun Wokung, known as “The Celestial Dragon,” Lakshay declared itself an independent military dictatorship. This break from the Hegemony created a divided humanity, with Lakshay wielding one of the galaxy’s most powerful standing armies, its people hardened by war and bound by a culture of duty and readiness.
