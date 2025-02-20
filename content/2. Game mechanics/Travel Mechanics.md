@@ -1,7 +1,7 @@
 # Fuel Cost
 - Void Jump - 100% fuel cost
 - Void FTL - 100% fuel cost + food cost for real time travel (if no fabricator on ship)
-Maw Jump - 10%
+- Maw Jump - 10%
 
 # Time Cost
 - Void Jumps & Maw Jumps - 1h of standard time (every maw =+1h => 6 maw jumps = 6h of travel)

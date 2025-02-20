@@ -39,3 +39,4 @@ Death saves are **privately** rolled between the player and the DM
     - If the counterspell roll is within 5 of the opposing roll but still fails, the original spell takes effect with reduced power (half damage, half duration, or diminished effect).
 3. **Arcane Backlash:**
     - On a natural 1 during the counterspell roll, the countering caster suffers arcane backlash, taking damage equal to the spell slot level × 2.
+

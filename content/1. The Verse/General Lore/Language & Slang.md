@@ -1,5 +1,3 @@
-**Going Dark:** (v) A phrase meaning to engage a void jump using a Dark Matter engine, likely originating from the closing of metal shutters and dimming of lights during jumps. Ex: “Going dark in three minutes, buckle up.
-
 **Locals:** (n) Native inhabitants of a world which have not encountered space travelers before. Ex: “Head back to the shuttle; keep your blasters ready, but mind the locals.” 
 
 **Going Dark:** (v) A phrase meaning to engage a void jump using a Dark Matter engine, likely originating from the closing of metal shutters and dimming of lights during jumps. Ex: “Going dark in three minutes, buckle up.” 
