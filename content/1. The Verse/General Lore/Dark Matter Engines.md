@@ -1,1 +1,1 @@
-powered by dark matter crystals harvested at the edge of the event horizon, essentially a stable batteries for antimatter*
+powered by dark matter crystals harvested at the edge of the event horizon, essentially stable batteries for antimatter* - WIP

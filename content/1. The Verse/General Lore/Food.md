@@ -1,6 +1,3 @@
----
-draft: "false"
----
 # Drinks
 ## Fizzy drinks
 ### Krash
@@ -39,7 +36,7 @@ Reflective glass bottle swirling with prismatic gas nebula hues, the colors shif
 
 Next to it, an animated clock display ticks down in real-time, estimating how long until you can safely pilot your craft after consumption.
 
-*The drink's creation stems from a failed attempt to synthesize the effects of Roaches, those infamous sensory-enhancing stims. The result instead induced mild, pleasant visual hallucinations resembling starbursts and galactic patterns. Rather than discarding the formula, the creators embraced it—a psychedelic soda for the weary traveler.*
+*The drink's creation stems from a failed attempt to synthesize the effects of Roaches. The result instead induced mild, pleasant visual hallucinations resembling starbursts and galactic patterns. Rather than discarding the formula, the creators embraced it—a psychedelic soda for the weary traveler.*
 
 The first sip blooms with sweetness—ripe cherries smashed into molten mango, fizz crackling on your tongue like solar flares. Then the lights start—not outside, but inside. Your vision warps into galaxies bursting in slow motion, stars winking into life across the periphery. You bear witness to the death of giants—supernovas erupting before your eyes, the last breath of ancient stars cascading into new nebulae. The void hums, and for a moment, you swear you hear the universe exhale.
 ## Hot Drinks
